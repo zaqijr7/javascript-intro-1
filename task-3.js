@@ -1,4 +1,4 @@
-var printSegitiga = 7;
+var printSegitiga = 5;
 
 if (typeof(printSegitiga) != 'number') {
     console.log('Data Harus Number');
